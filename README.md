@@ -10,6 +10,6 @@ Currently, I'm working on these projects, in order of priority:
 
 2. [Asybot](https://github.com/Trip7274/AsyBot) \[Python\] - A simple Discord bot built to try to make an LLM act like a regular, normal person in a Discord server. - Very early stages
 
-3. BitTransfer \[Python\] - The Python implementation of BitTransfer, shifted into being a CLI instead of a GUI, and mainly used as an API to interact with other Python implementations, and end-user implementations in C#
+3. BitTransfer \[Python\] - The Python implementation of BitTransfer, shifted into being a CLI instead of a GUI, and mainly used as an API to interact with other Python implementations, and end-user implementations in C# - Planning
 
 4. [Trips-Home](https://github.com/Trip7274/Trips-Home) \[HTML\] - My own personal website! written in pure HTML/CSS/JS, and hosted on Cloudflare Pages. - Mostly done, just maintaining it
