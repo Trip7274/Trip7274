@@ -8,7 +8,7 @@ If you're wondering why I seem to work on a lot of private repos, it's because I
 Currently, I'm working on these projects, in order of priority:
 1. BitTransfer \[C#\] - A user-friendly app using AvaloniaUI, with a custom protocol under the hood designed to load-balance large transfers over separate connections simultaneously. - Early stages 
 
-2. [Asybot](https://github.com/Trip7274/AsyBot) \[Python\] - A simple Discord bot built to try to make an LLM act like a regular, normal person in a Discord server. - Very early stages
+2. [Asybot](https://github.com/Trip7274/AsyBot) \[Python\] - A simple Discord bot built to try to make an LLM act like a regular, normal person in a Discord server. - Very early stages \[Frozen\]
 
 3. BitTransfer \[Python\] - The Python implementation of BitTransfer, shifted into being a CLI instead of a GUI, and mainly used as an API to interact with other Python implementations, and end-user implementations in C# - Planning
 
