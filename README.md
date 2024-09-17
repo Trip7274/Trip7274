@@ -10,7 +10,7 @@ Currently, I'm working on these projects, in order of priority:
 
 2. BitTransfer \[Python\] - The Python implementation of BitTransfer, shifted into being a CLI instead of a GUI, and mainly used as an API to interact with other Python implementations, and end-user implementations in C# - In the future
 
-3. [Trips-Home](https://github.com/Trip7274/Trips-Home) \[HTML\] - My own personal website! written in pure HTML/CSS/JS, and hosted on Cloudflare Pages. - Maintenance
+3. [Trips-Home](https://github.com/Trip7274/Trips-Home) \[HTML\] - My own personal website! written in pure HTML/CSS/JS, and hosted on Cloudflare Pages. - Refactoring
 
 # Planned projects
 Here are some projects I'm planning on working on after BitTransfer, this will change often and is in no particular order.
